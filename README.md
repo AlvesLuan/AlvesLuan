@@ -46,7 +46,7 @@
 ## Sistemas Operacionais:
 ![Windows](https://img.shields.io/badge/Windows-272822?style=for-the-badge&logo=windows&logoColor=white&labelColor=F92672)
 ![Android](https://img.shields.io/badge/Android-272822?style=for-the-badge&logo=android&logoColor=white&labelColor=F92672)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-272822?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=F9267)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-272822?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=F92672)
 
 <!--
 <div style="display: inline_block">

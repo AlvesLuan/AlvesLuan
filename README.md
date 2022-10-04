@@ -34,17 +34,17 @@
 ![markdown](https://img.shields.io/badge/markdown-272822?style=for-the-badge&logo=markdown&logoColor=white&labelColor=F92672)
 ![java](https://img.shields.io/badge/java-272822?style=for-the-badge&logo=java.&logoColor=white&labelColor=F92672)
 
-## IDEs utilizadas:
+### IDEs utilizadas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-272822.svg?style=for-the-badge&logo=visual-studio-code&logoColor-logoColor=white&labelColor=F92672)
 ![PyCharm](https://img.shields.io/badge/pycharm-272822?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=F92672)
 ![Replit](https://img.shields.io/badge/Replit-272822?style=for-the-badge&logo=Replit&logoColor=white&labelColor=F92672)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-272822.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=F92672)
 
-## Outros Softwares:
+### Outros Softwares:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-272822.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=F92672)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-272822?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=F92672)
 
-## Sistemas Operacionais:
+### Sistemas Operacionais:
 ![Windows](https://img.shields.io/badge/Windows-272822?style=for-the-badge&logo=windows&logoColor=white&labelColor=F92672)
 ![Android](https://img.shields.io/badge/Android-272822?style=for-the-badge&logo=android&logoColor=white&labelColor=F92672)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-272822?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=F92672)

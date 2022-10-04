@@ -11,10 +11,14 @@
 [![Discord](https://img.shields.io/badge/Discord-F92672?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/360224465281482752)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F92672?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-kauan-alves-31b057239/)
 [![Gmail](https://img.shields.io/badge/Gmail-F92672?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luankauan10@gmail.com)
+[![Steam](https://img.shields.io/badge/steam-F92672.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/nomiiidm/)
 
 <!-- ![AlvesLuan GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvesLuan&show_icons=true&theme=dracula&count_private=true) -->
 
+
 </br >
+
+
 
 ![AlvesLuan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesLuan&layout=compact&langs_count=7&theme=monokai) 
 
@@ -29,7 +33,19 @@
 ![markdown](https://img.shields.io/badge/markdown-272822?style=for-the-badge&logo=markdown&logoColor=white&labelColor=F92672)
 ![java](https://img.shields.io/badge/java-272822?style=for-the-badge&logo=java.&logoColor=white&labelColor=F92672)
 
+## IDEs utilizadas:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-272822.svg?style=for-the-badge&logo=visual-studio-code&logoColor-logoColor=white&labelColor=F92672)
+![PyCharm](https://img.shields.io/badge/pycharm-272822?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=F92672)
+![Replit](https://img.shields.io/badge/Replit-272822?style=for-the-badge&logo=Replit&logoColor=white&labelColor=F92672)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-272822.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=F92672)
 
+## Outros Softwares:
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-272822.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=F92672)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-272822?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=F92672)
+
+## Sistemas Operacionais:
+![Windows](https://img.shields.io/badge/Windows-272822?style=for-the-badge&logo=windows&logoColor=white&labelColor=F92672)
+![Android](https://img.shields.io/badge/Android-272822?style=for-the-badge&logo=android&logoColor=white&labelColor=F92672)
 
 <!--
 <div style="display: inline_block">

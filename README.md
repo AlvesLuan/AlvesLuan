@@ -22,6 +22,7 @@
 
 ![AlvesLuan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesLuan&layout=compact&langs_count=7&theme=monokai) 
 
+</br >
 
 ## Tecnologias que possuo conhecimento:
 ![HTML5](https://img.shields.io/badge/html5-272822?style=for-the-badge&logo=html5&logoColor=white&labelColor=F92672)
@@ -47,7 +48,6 @@
 ![Windows](https://img.shields.io/badge/Windows-272822?style=for-the-badge&logo=windows&logoColor=white&labelColor=F92672)
 ![Android](https://img.shields.io/badge/Android-272822?style=for-the-badge&logo=android&logoColor=white&labelColor=F92672)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-272822?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=F92672)
-
 <!--
 <div style="display: inline_block">
 

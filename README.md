@@ -15,11 +15,6 @@
 
 <!-- ![AlvesLuan GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvesLuan&show_icons=true&theme=dracula&count_private=true) -->
 
-
-</br >
-
----
-
 </br >
 
 ![AlvesLuan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesLuan&layout=compact&langs_count=7&theme=monokai) 

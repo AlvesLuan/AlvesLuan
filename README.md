@@ -1,16 +1,51 @@
-### Hi there 👋
+## Olá! Eu sou o Luan 🖐️
+
+#### Um amante da tecnologia, entusiasta de E-sports e apaixonado por aprender.
+
+</br >
+
+[![Discord](https://img.shields.io/badge/Discord-F92672?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/360224465281482752)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F92672?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-kauan-alves-31b057239/)
+[![Gmail](https://img.shields.io/badge/Gmail-F92672?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luankauan10@gmail.com)
+
+</br >
+<!-- ![AlvesLuan GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvesLuan&show_icons=true&theme=dracula&count_private=true) -->
+
+![AlvesLuan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesLuan&layout=compact&langs_count=7&theme=monokai) 
+
+
+</br >
+
+---
+
+</br >
+
+## Tecnologias que possuo conhecimento:
+
+<div style="display: inline_block">
+
+![HTML5](https://img.shields.io/badge/html5-272822?style=for-the-badge&logo=html5&logoColor=white&labelColor=F92672)
+![CSS3](https://img.shields.io/badge/CSS3-272822?style=for-the-badge&logo=css3&logoColor=white&labelColor=F92672)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-272822?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F92672)
+![nodejs](https://img.shields.io/badge/nodejs-272822?style=for-the-badge&logo=node.js&logoColor=white&labelColor=F92672)
+![python](https://img.shields.io/badge/python-272822?style=for-the-badge&logo=python&logoColor=white&labelColor=F92672)
+![markdown](https://img.shields.io/badge/markdown-272822?style=for-the-badge&logo=markdown&logoColor=white&labelColor=F92672)
+![java](https://img.shields.io/badge/java-272822?style=for-the-badge&logo=java.&logoColor=white&labelColor=F92672)
+
+
 
 <!--
-**AlvesLuan/AlvesLuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
+  <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 -->
+  
+</div><br/>
+
+
+

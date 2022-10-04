@@ -1,10 +1,11 @@
 <div align="center">
 
-## Oi! Eu sou o Luan 🖐️
+## Olá! Eu sou o Luan 🖐️
 
 <img src="https://64.media.tumblr.com/32c1fdf051c9c07579dd6487c9c566b8/tumblr_mlthkuZqUT1s035gko1_400.gifv" style=" width: 200px; height: 108px;">
 
 #### Um amante da tecnologia, entusiasta de E-sports e apaixonado por aprender.
+
 
 </br >
 
@@ -12,10 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F92672?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-kauan-alves-31b057239/)
 [![Gmail](https://img.shields.io/badge/Gmail-F92672?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luankauan10@gmail.com)
 
-</br >
 <!-- ![AlvesLuan GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvesLuan&show_icons=true&theme=dracula&count_private=true) -->
-
-![AlvesLuan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesLuan&layout=compact&langs_count=7&theme=monokai) 
 
 
 </br >
@@ -24,7 +22,12 @@
 
 </br >
 
+![AlvesLuan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesLuan&layout=compact&langs_count=7&theme=monokai) 
+
+
 ## Tecnologias que possuo conhecimento:
+
+
 
 ![HTML5](https://img.shields.io/badge/html5-272822?style=for-the-badge&logo=html5&logoColor=white&labelColor=F92672)
 ![CSS3](https://img.shields.io/badge/CSS3-272822?style=for-the-badge&logo=css3&logoColor=white&labelColor=F92672)
@@ -48,9 +51,8 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" />
   <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
-</div><br/>
+</div>
 -->
-  
 
 
 

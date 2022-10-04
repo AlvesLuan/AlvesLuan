@@ -6,7 +6,6 @@
 
 #### Um amante da tecnologia, entusiasta de E-sports e apaixonado por aprender.
 
-
 </br >
 
 [![Discord](https://img.shields.io/badge/Discord-F92672?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/360224465281482752)

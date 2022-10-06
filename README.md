@@ -20,7 +20,12 @@
 
 
 
-![AlvesLuan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesLuan&layout=compact&langs_count=7&theme=monokai) 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvesLuan&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesLuan&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+
+<!-- ![AlvesLuan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesLuan&layout=compact&langs_count=7&theme=monokai)  -->
 
 </br >
 

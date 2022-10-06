@@ -1,11 +1,6 @@
 <div align="center">
 
-## Olá! Eu sou o Luan 🖐️<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" 
-  style="
-  width: 25px;
-  height: 25px;
-  margin-left: 5px;
-  ">
+## Olá! Eu sou o Luan 🖐️
 
 <img src="https://64.media.tumblr.com/32c1fdf051c9c07579dd6487c9c566b8/tumblr_mlthkuZqUT1s035gko1_400.gifv" style=" width: 200px; height: 108px;">
 

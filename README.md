@@ -1,6 +1,6 @@
 <div align="center">
 
-## Olá! Eu sou o Luan 🖐️
+## Oi! Eu sou o Luan 🖐️
 
 <img src="https://64.media.tumblr.com/32c1fdf051c9c07579dd6487c9c566b8/tumblr_mlthkuZqUT1s035gko1_400.gifv" style=" width: 200px; height: 108px;">
 

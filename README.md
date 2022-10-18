@@ -31,12 +31,13 @@
 
 ---
 
+<div align="center">
+
 ### Tecnologias que possuo conhecimento:
 ![HTML5](https://img.shields.io/badge/html5-272822?style=for-the-badge&logo=html5&logoColor=white&labelColor=F92672)
 ![CSS3](https://img.shields.io/badge/CSS3-272822?style=for-the-badge&logo=css3&logoColor=white&labelColor=F92672)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-272822?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F92672)
 ![nodejs](https://img.shields.io/badge/nodejs-272822?style=for-the-badge&logo=node.js&logoColor=white&labelColor=F92672)
-
 ![python](https://img.shields.io/badge/python-272822?style=for-the-badge&logo=python&logoColor=white&labelColor=F92672)
 ![markdown](https://img.shields.io/badge/markdown-272822?style=for-the-badge&logo=markdown&logoColor=white&labelColor=F92672)
 ![java](https://img.shields.io/badge/java-272822?style=for-the-badge&logo=java.&logoColor=white&labelColor=F92672)
@@ -55,6 +56,7 @@
 ![Windows](https://img.shields.io/badge/Windows-272822?style=for-the-badge&logo=windows&logoColor=white&labelColor=F92672)
 ![Android](https://img.shields.io/badge/Android-272822?style=for-the-badge&logo=android&logoColor=white&labelColor=F92672)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-272822?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=F92672)
+
 <!--
 <div style="display: inline_block">
 

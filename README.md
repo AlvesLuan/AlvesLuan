@@ -40,7 +40,7 @@
 ![nodejs](https://img.shields.io/badge/nodejs-272822?style=for-the-badge&logo=node.js&logoColor=white&labelColor=F92672)
 ![python](https://img.shields.io/badge/python-272822?style=for-the-badge&logo=python&logoColor=white&labelColor=F92672)
 ![markdown](https://img.shields.io/badge/markdown-272822?style=for-the-badge&logo=markdown&logoColor=white&labelColor=F92672)
-![java](https://img.shields.io/badge/java-272822?style=for-the-badge&logo=java.&logoColor=white&labelColor=F92672)
+![java](https://img.shields.io/badge/Java-272822?style=for-the-badge&logo=java&logoColor=white&labelColor=F92672)
 
 ### IDEs utilizadas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-272822.svg?style=for-the-badge&logo=visual-studio-code&logoColor-logoColor=white&labelColor=F92672)
